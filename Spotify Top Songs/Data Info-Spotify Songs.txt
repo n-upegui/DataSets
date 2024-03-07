@@ -1,0 +1,23 @@
+
+Context
+
+Dataset contains a comprehensive list of the most famous songs and most streamed songs as listed on Spotify.
+
+**It provides insights into each song's**
+
+Attributes
+Popularity
+Presence on various music platforms
+
+The dataset includes information such as track name
+
+1. Artist's name
+2. Release date
+3. Spotify playlists and charts
+4. Streaming statistics
+5. Apple Music presence
+6. Deezer presence
+7. Shazam charts
+8. Various audio features
+
+dataset obtained from: https://www.kaggle.com/datasets/arnavvvvv/spotify-music/data
