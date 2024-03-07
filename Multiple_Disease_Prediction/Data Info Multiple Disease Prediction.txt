@@ -1,0 +1,34 @@
+dataset obtained from: https://www.kaggle.com/datasets/ehababoelnaga/multiple-disease-prediction
+About Dataset
+A dataset to check the health, whether the person has a specific disease or he is well, 
+based on blood samples or parameters, the data is hand madden, you can use it just for learning, 
+i searched about the percentage of each parameter and what will happen if this parameter high or low, 
+and which disease you might have if this parameter high or low, based on all this information and searches 
+i created this dataset just for learning and a project idea purpose Also, the data is already scaled in range(0,1)
+
+this is the percentage of each parameter:
+
+"Glucose": (70, 140),  # mg/dL
+"Cholesterol": (125, 200),  # mg/dL
+"Hemoglobin": (13.5, 17.5),  # g/dL
+"Platelets": (150000, 450000),  # per microliter of blood
+"White Blood Cells": (4000, 11000),  # per cubic millimeter of blood
+"Red Blood Cells": (4.2, 5.4),  # million cells per microliter of blood
+"Hematocrit": (38, 52),  # percentage
+"Mean Corpuscular Volume": (80, 100),  # femtoliters
+"Mean Corpuscular Hemoglobin": (27, 33),  # picograms
+"Mean Corpuscular Hemoglobin Concentration": (32, 36),  # grams per deciliter
+"Insulin": (5, 25),  # microU/mL
+"BMI": (18.5, 24.9),  # kg/m^2
+"Systolic Blood Pressure": (90, 120),  # mmHg
+"Diastolic Blood Pressure": (60, 80),  # mmHg
+"Triglycerides": (50, 150),  # mg/dL
+"HbA1c": (4, 6),  # percentage
+"LDL Cholesterol": (70, 130),  # mg/dL
+"HDL Cholesterol": (40, 60),  # mg/dL
+"ALT": (10, 40),  # U/L
+"AST": (10, 40),  # U/L
+"Heart Rate": (60, 100),  # beats per minute
+"Creatinine": (0.6, 1.2),  # mg/dL
+"Troponin": (0, 0.04),  # ng/mL
+"C-reactive Protein": (0, 3),  # mg/L
